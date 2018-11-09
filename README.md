@@ -16,7 +16,7 @@ Data modeling team wrote one NLP class which did the initial work on our data to
 
 
 <h3> Modeling </h3>
-PCA and SVD for dimensionality reduction
+PCA and SVD for dimensionality reduction.
 
 
 ### Complications

@@ -16,13 +16,7 @@ Data modeling team wrote one NLP class which did the initial work on our data to
 
 
 <h3> Modeling </h3>
-1. CountVectorizer to remove punctuation, lowercase, etc.
-<br>
-<br>
-2. Tf-idf vectorization
-<br>
-<br>
-3. Started with TruncatedSVD from SK Learn and also used PCA.
+PCA and SVD for dimensionality reduction
 
 
 ### Complications
